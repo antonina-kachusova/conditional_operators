@@ -79,14 +79,3 @@ let message2 = 'The second number is larger';
 let message3 = 'The numbers are equal';
 
 bigNum > smallNum ? console.log(message1) : (bigNum < smallNum? console.log(message2) : console.log(message3));
-
-
-
-
-
-
-
-
-
-
-
